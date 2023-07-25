@@ -168,7 +168,7 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
+
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/LpNgazyLxsg)
 
